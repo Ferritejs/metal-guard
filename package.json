@@ -1,0 +1,22 @@
+{
+  "name": "metal-guard",
+  "version": "0.0.1",
+  "description": "An access control framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ferritejs/metal-guard.git"
+  },
+  "keywords": [
+    "access-control"
+  ],
+  "author": "Comet11x",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ferritejs/metal-guard/issues"
+  },
+  "homepage": "https://github.com/Ferritejs/metal-guard#readme"
+}
